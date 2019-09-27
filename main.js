@@ -1,0 +1,13 @@
+"use strict";
+exports.__esModule = true;
+var message = 'Hi there';
+console.log(message);
+var x = 10;
+var y = 20;
+var sum;
+var title = 'Jules stuff';
+var isBeginer = true;
+var total = 0;
+var name = 'Jules';
+var sentence = "my name is " + name + "\nI am a begginer in TS";
+console.group(sentence);
